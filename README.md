@@ -12,13 +12,13 @@
 
 ### Skill
 
-<code>css3</code>
-<code>js</code>
-<code>Vue</code>
-<code>React</code>
-<code>Ts</code>
-<code>Webpack</code>
-<code>Node</code>
+<code><img src="https://caocaodeng.github.io/static/skill/css.png" width="22" /></code>
+<code><img src="https://caocaodeng.github.io/static/skill/javascript.png" width="22" /></code>
+<code><img src="https://caocaodeng.github.io/static/skill/vue.png" width="22" /></code>
+<code><img src="https://caocaodeng.github.io/static/skill/react.png" width="22" /></code>
+<code><img src="https://caocaodeng.github.io/static/skill/typescript.png" width="22" /></code>
+<code><img src="https://caocaodeng.github.io/static/skill/webpack.png" width="22" /></code>
+<code><img src="https://caocaodeng.github.io/static/skill/nodejs.png" width="22" /></code>
 
 ### Project
 
