@@ -22,6 +22,8 @@ I'm Dengcaocao, frontend developer from chongqing, living in shanghai.
 ![Static Badge](https://img.shields.io/badge/Webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Nodejs-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=%23fff)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caocaoDeng&layout=compact)
+
 #### My projects
 
 | 🎉Projects    |    🔖 Status  |  Skill |
