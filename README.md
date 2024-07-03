@@ -3,7 +3,7 @@
 行千里 至广大。</br>
 Travel thousands of miles to reach the vast.
 
-邓草草，一名前端开发人员，来自山城重庆，目前沪票中(求内推机会)。</br>
+邓草草，一名前端开发人员，来自山城重庆，目前沪漂中(求内推机会)。</br>
 I'm Dengcaocao, frontend developer from chongqing, living in shanghai.
 
 > 保留对名称的猜测，不要说奇怪🙅
